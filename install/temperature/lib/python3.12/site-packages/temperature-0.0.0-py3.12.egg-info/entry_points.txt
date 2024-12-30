@@ -1,0 +1,3 @@
+[console_scripts]
+client = temperature.client:main
+server = temperature.server:main

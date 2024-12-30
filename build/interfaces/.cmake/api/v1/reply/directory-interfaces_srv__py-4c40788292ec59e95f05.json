@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "interfaces_srv__py",
+		"source" : "/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces/interfaces_srv__py"
+	}
+}

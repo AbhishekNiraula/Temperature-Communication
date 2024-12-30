@@ -1,0 +1,11 @@
+{
+  "package_name": "interfaces",
+  "output_dir": "/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces/rosidl_generator_type_description/interfaces",
+  "idl_tuples": [
+    "/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces/rosidl_adapter/interfaces:srv/Temperature.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

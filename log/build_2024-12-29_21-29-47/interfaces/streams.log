@@ -1,0 +1,10 @@
+[0.012s] Invoking command in '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces -- -j8 -l8
+[0.035s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.228s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.304s] [31mCMake Error at CMakeLists.txt:26 (rosidl_generate_interfaces):
+[0.304s]   Unknown CMake command "rosidl_generate_interfaces".
+[0.304s] 
+[0.304s] [0m
+[0.304s] -- Configuring incomplete, errors occurred!
+[0.308s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.311s] Invoked command in '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/interfaces -- -j8 -l8

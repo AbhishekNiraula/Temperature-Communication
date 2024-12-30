@@ -1,0 +1,25 @@
+[0.740s] Invoking command in '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/src/temperature': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/temperature build --build-base /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build install --record /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/install.log --single-version-externally-managed install_data
+[0.965s] running egg_info
+[0.982s] writing ../../build/temperature/temperature.egg-info/PKG-INFO
+[0.983s] writing dependency_links to ../../build/temperature/temperature.egg-info/dependency_links.txt
+[0.984s] writing entry points to ../../build/temperature/temperature.egg-info/entry_points.txt
+[0.984s] writing requirements to ../../build/temperature/temperature.egg-info/requires.txt
+[0.984s] writing top-level names to ../../build/temperature/temperature.egg-info/top_level.txt
+[1.019s] reading manifest file '../../build/temperature/temperature.egg-info/SOURCES.txt'
+[1.020s] writing manifest file '../../build/temperature/temperature.egg-info/SOURCES.txt'
+[1.020s] running build
+[1.021s] running build_py
+[1.021s] copying temperature/server.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature
+[1.021s] running install
+[1.028s] running install_lib
+[1.045s] copying /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature/server.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature
+[1.047s] byte-compiling /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature/server.py to server.cpython-312.pyc
+[1.048s] running install_data
+[1.048s] running install_egg_info
+[1.066s] removing '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature-0.0.0-py3.12.egg-info' (and everything under it)
+[1.066s] Copying ../../build/temperature/temperature.egg-info to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature-0.0.0-py3.12.egg-info
+[1.067s] running install_scripts
+[1.187s] Installing client script to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/temperature
+[1.187s] Installing server script to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/temperature
+[1.188s] writing list of installed files to '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/install.log'
+[1.221s] Invoked command in '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/src/temperature' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/temperature build --build-base /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build install --record /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/install.log --single-version-externally-managed install_data

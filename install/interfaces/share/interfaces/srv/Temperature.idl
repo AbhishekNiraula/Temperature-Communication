@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/Temperature.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct Temperature_Request {
+      string city;
+    };
+    struct Temperature_Response {
+      float temp;
+    };
+  };
+};

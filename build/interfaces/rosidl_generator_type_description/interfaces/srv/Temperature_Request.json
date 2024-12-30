@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "interfaces/srv/Temperature_Request",
+      "fields": [
+        {
+          "name": "city",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "interfaces/srv/Temperature_Request",
+      "hash_string": "RIHS01_cfa354ca65d21a4d161059fde8c2adf6d985b1eed89282682c4b7a590209c00f"
+    }
+  ]
+}

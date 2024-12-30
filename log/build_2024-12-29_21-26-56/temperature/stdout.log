@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/temperature/temperature.egg-info
+writing ../../build/temperature/temperature.egg-info/PKG-INFO
+writing dependency_links to ../../build/temperature/temperature.egg-info/dependency_links.txt
+writing entry points to ../../build/temperature/temperature.egg-info/entry_points.txt
+writing requirements to ../../build/temperature/temperature.egg-info/requires.txt
+writing top-level names to ../../build/temperature/temperature.egg-info/top_level.txt
+writing manifest file '../../build/temperature/temperature.egg-info/SOURCES.txt'
+reading manifest file '../../build/temperature/temperature.egg-info/SOURCES.txt'
+writing manifest file '../../build/temperature/temperature.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature
+copying temperature/client.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature
+copying temperature/__init__.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature
+copying temperature/server.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature
+running install
+running install_lib
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature
+copying /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature/client.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature
+copying /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature/__init__.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature
+copying /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/build/lib/temperature/server.py -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature
+byte-compiling /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature/client.py to client.cpython-312.pyc
+byte-compiling /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature/server.py to server.cpython-312.pyc
+running install_data
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/share/ament_index
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/share/ament_index/resource_index
+creating /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/share/ament_index/resource_index/packages
+copying resource/temperature -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/share/ament_index/resource_index/packages
+copying package.xml -> /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/share/temperature
+running install_egg_info
+Copying ../../build/temperature/temperature.egg-info to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/python3.12/site-packages/temperature-0.0.0-py3.12.egg-info
+running install_scripts
+Installing client script to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/temperature
+Installing server script to /home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/install/temperature/lib/temperature
+writing list of installed files to '/home/abhiniraula/Documents/ROS2_PRACTICE/interfaces/build/temperature/install.log'
